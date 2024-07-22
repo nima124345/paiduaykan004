@@ -1,0 +1,793 @@
+<!doctype html>
+<!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+ <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"> 
+ <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1.0, user-scalable=yes, shrink-to-fit=no' name='viewport' />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86882905-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-86882905-1');
+</script>
+   
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-0096060725943523",
+    enable_page_level_ads: true
+  });
+</script>
+    
+<meta property="og:image" content="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2223-800x533.jpg"/>
+<meta property="og:image" content="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2223-300x200.jpg"/>    
+<meta property="og:title" content="Mother Roaster ตลาดน้อย"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://www.paiduaykan.com/travel/mother-roaster?v2"/>
+<meta property="og:site_name" content="ไปด้วยกันท่องเที่ยว"/>
+<meta property="og:description" content="Mother Roaster คาเฟ่ชื่อดังในย่านตลาดน้อย ที่ใครไม่ได้มาถ่ายรูปกับภาพเพนท์กำแพงของร้านถือว่ามาไม่ถึงตลาดน้อย" />
+<meta property="fb:app_id" content="966242223397117" /> <!--724996107603499-->
+
+
+    
+ <link id="bootstrap" rel="stylesheet" href="https://www.paiduaykan.com/travel/wp-content/themes/paiduaykan-by-pw/css/bootstrap.min.css?v=12204" />
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://www.paiduaykan.com/travel/wp-content/themes/paiduaykan-by-pw/css/font-awesome.min.css">
+
+<link id="responsive" rel="stylesheet" href="https://www.paiduaykan.com/travel/wp-content/themes/paiduaykan-by-pw/css/responsive_version.css?v=22.6" type="text/css" media="screen" /> 
+
+<link rel="stylesheet" href="https://www.paiduaykan.com/travel/wp-content/themes/paiduaykan-by-pw/css/front_page.css?v=12291" />   
+<link rel="stylesheet" href="https://www.paiduaykan.com/travel/wp-content/themes/paiduaykan-by-pw/style.css?v=6691.1" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://www.paiduaykan.com/travel/wp-content/themes/paiduaykan-by-pw/style-eat.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://www.paiduaykan.com/travel/wp-content/themes/paiduaykan-by-pw/style-gallery.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://www.paiduaykan.com/travel/wp-content/themes/paiduaykan-by-pw/social.min.css" type="text/css" media="screen" />
+
+<link rel="image_src" href="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2223-800x533.jpg" />
+ 
+<link rel="pingback" href="https://www.paiduaykan.com/travel/xmlrpc.php" />
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+
+ <style type="text/css">
+     #mainad {
+        height: 85px;
+        width: 662px;
+        margin-top: auto;
+        margin-right: auto;
+        margin-bottom: 10px;
+        margin-left: auto;
+    }
+  
+    #adbox {
+         
+        margin-right: auto;
+        margin-left: auto;
+    }
+    #boxright {
+        /*float: right;*/
+        /*margin-top: 10px;*/
+        width: 210px;
+
+        float: left !important;
+        margin: 10px 10px 0 0 !important;	
+    }
+    #boxeat {
+        float: right !important
+    }
+    #boxeatright {
+        float:left !important;
+    }
+ 
+    #paiduaykantravelad1 {
+        background-color: #FFF;
+        width: 210px;
+        margin-top: 10px;
+        height: 200px;
+    }
+    .bannerad2 {
+        min-height: 200px;
+        width: 210px;
+        margin-top: 10px;
+    }
+
+    #detailbox1, #detailbox2 {
+        margin-top: 10px;
+    }
+    .top-wtext-19 ,.top-wwp_bannerize-13 ,.brt {
+        margin-bottom:10px;
+    }
+    .follow-us-lvd img {
+        width: 100%;
+        display: inline-block;
+        max-width: 26px;
+    }
+    .follow-us-fb .follow-img img {
+        width: 100%;
+        max-width: 26px;
+        padding:0 3px;
+    }
+    @media only screen and (max-width: 768px) {    
+        .follow-us-fb .follow-img {
+            width: 30%;
+        }
+        .follow-us-fb .follow-text {
+            width: 70%;
+        }
+	}
+
+	#page { background: url("https://www.paiduaykan.com/travel/wp-content/themes/paiduaykan-by-pw/images/kubrickbgwide.jpg") repeat-y top; border: none; }
+-->
+</style>
+<script type="text/javascript" src="https://fbcomments-email-notifications.googlecode.com/files/CommentsboxEmailNotifications.js"></script>
+<script type="text/javascript">
+    
+    $(document).ready(function(){
+       
+       //$('.rotate').hide();
+	  	banner_maxnum=$('.rotate').length;
+		
+		if(banner_maxnum>1){ //ถ้ามีแบนเนอร์มากกว่า 1
+			banner_now=parseInt(getCookie('banner_now'))
+			if(banner_now>0){
+				
+				if(banner_now>=banner_maxnum){
+					new_rotate=banner_now-banner_maxnum;
+					setCookie('banner_now', 1, 1);
+					$('.rotate:eq(0)').show();
+				}else{
+					$('.rotate:eq('+(banner_now)+')').show();
+					new_rotate=banner_now+1;
+					setCookie('banner_now',new_rotate , 1);
+				}
+			}else{
+				setCookie('banner_now', 1, 1);
+				$('.rotate:eq(0)').show();
+			}
+			
+		}
+		//deleteCookie('banner_now')
+ 
+   });
+</script>
+    
+
+<!-- This site is optimized with the Yoast SEO plugin v12.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Mother Roaster ตลาดน้อย - ไปด้วยกันท่องเที่ยว</title>
+<meta name="description" content="Mother Roaster คาเฟ่ชื่อดังในย่านตลาดน้อย ที่ใครไม่ได้มาถ่ายรูปกับภาพเพนท์กำแพงของร้านถือว่ามาไม่ถึงตลาดน้อย"/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://www.paiduaykan.com/travel/mother-roaster" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.paiduaykan.com/travel/#website","url":"https://www.paiduaykan.com/travel/","name":"\u0e44\u0e1b\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19\u0e17\u0e48\u0e2d\u0e07\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27","potentialAction":{"@type":"SearchAction","target":"https://www.paiduaykan.com/travel/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.paiduaykan.com/travel/mother-roaster#primaryimage","url":"https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2223.jpg","width":800,"height":533},{"@type":"WebPage","@id":"https://www.paiduaykan.com/travel/mother-roaster#webpage","url":"https://www.paiduaykan.com/travel/mother-roaster","inLanguage":"en-US","name":"Mother Roaster \u0e15\u0e25\u0e32\u0e14\u0e19\u0e49\u0e2d\u0e22 - \u0e44\u0e1b\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19\u0e17\u0e48\u0e2d\u0e07\u0e40\u0e17\u0e35\u0e48\u0e22\u0e27","isPartOf":{"@id":"https://www.paiduaykan.com/travel/#website"},"primaryImageOfPage":{"@id":"https://www.paiduaykan.com/travel/mother-roaster#primaryimage"},"datePublished":"2021-06-27T13:08:50+00:00","dateModified":"2021-07-01T13:57:39+00:00","author":{"@id":"https://www.paiduaykan.com/travel/#/schema/person/8d9d208c43046a54d9f9974e2491e8b3"},"description":"Mother Roaster \u0e04\u0e32\u0e40\u0e1f\u0e48\u0e0a\u0e37\u0e48\u0e2d\u0e14\u0e31\u0e07\u0e43\u0e19\u0e22\u0e48\u0e32\u0e19\u0e15\u0e25\u0e32\u0e14\u0e19\u0e49\u0e2d\u0e22 \u0e17\u0e35\u0e48\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e21\u0e32\u0e16\u0e48\u0e32\u0e22\u0e23\u0e39\u0e1b\u0e01\u0e31\u0e1a\u0e20\u0e32\u0e1e\u0e40\u0e1e\u0e19\u0e17\u0e4c\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e02\u0e2d\u0e07\u0e23\u0e49\u0e32\u0e19\u0e16\u0e37\u0e2d\u0e27\u0e48\u0e32\u0e21\u0e32\u0e44\u0e21\u0e48\u0e16\u0e36\u0e07\u0e15\u0e25\u0e32\u0e14\u0e19\u0e49\u0e2d\u0e22"},{"@type":["Person"],"@id":"https://www.paiduaykan.com/travel/#/schema/person/8d9d208c43046a54d9f9974e2491e8b3","name":"paiduaykan","image":{"@type":"ImageObject","@id":"https://www.paiduaykan.com/travel/#authorlogo","url":"https://secure.gravatar.com/avatar/b5337bf9fef9c8bab30c1000178100da?s=96&d=mm&r=g","caption":"paiduaykan"},"sameAs":[]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="ไปด้วยกันท่องเที่ยว &raquo; Feed" href="https://www.paiduaykan.com/travel/feed" />
+<link rel="alternate" type="application/rss+xml" title="ไปด้วยกันท่องเที่ยว &raquo; Comments Feed" href="https://www.paiduaykan.com/travel/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.paiduaykan.com\/travel\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.11"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-group-css' href='https://www.paiduaykan.com/travel/wp-content/plugins/bwp-minify/min/?f=travel/wp-includes/css/dist/block-library/style.min.css,travel/wp-content/plugins/seed-social/style.css,travel/wp-content/plugins/wp-pagenavi/pagenavi-css.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.paiduaykan.com/travel/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.paiduaykan.com/travel/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.paiduaykan.com/travel/wp-content/plugins/bwp-minify/min/?f=travel/wp-content/plugins/feature-slideshow/js/jquery.featureList-1.0.0.js'></script>
+<link rel='https://api.w.org/' href='https://www.paiduaykan.com/travel/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.paiduaykan.com/travel/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.paiduaykan.com/travel/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.11" />
+<link rel='shortlink' href='https://www.paiduaykan.com/travel/?p=59134' />
+<link rel="alternate" type="application/json+oembed" href="https://www.paiduaykan.com/travel/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.paiduaykan.com%2Ftravel%2Fmother-roaster" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.paiduaykan.com/travel/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.paiduaykan.com%2Ftravel%2Fmother-roaster&#038;format=xml" />
+<link rel="stylesheet" href="https://www.paiduaykan.com/travel/wp-content/plugins/feature-slideshow/css/style.php?width=600&height=323&imagewidth=400&psize=18&title_color=3e96da&list_width=200" type="text/css" media="all" />
+		<script type="text/javascript">
+		
+		jQuery(document).ready(function() {
+			
+			jQuery.featureList(
+				jQuery("#feature-slideshow-container #tabs li a"),
+				jQuery("#feature-slideshow-container #output li"), {
+					start_item : 0,
+					transition_interval : 5000,
+					pause_on_hover : true
+				}
+			);
+		});
+		</script>
+	<meta property="og:url" content="https://www.paiduaykan.com/travel/mother-roaster" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="Mother Roaster ตลาดน้อย" />
+		<meta property="og:description" content="Mother Roaster คาเฟ่ชื่อดังในย่านตลาดน้อย ที่ใครไม่ได้มาถ่ายรูปกับภาพเพนท์กำแพงของร้านถือว่ามาไม่ถึงตลาดน้อย" />
+		<meta property="og:image" content="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2223.jpg" /><link rel="stylesheet" href="https://www.paiduaykan.com/travel/wp-content/plugins/wp-page-numbers/classic/wp-page-numbers.css" type="text/css" media="screen" />    
+ </head>
+<body data-rsssl=1 dir="ltr">
+    <header class="header">
+        <div class="container">
+            <nav class="navbar navbar-inverse" role="navigation">
+                <div class="navbar-header">
+                    <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="/" class="navbar-brand scroll-top logo">
+                        <img src="/images/s-logo-new.png" class="img-responsive">
+                    </a>
+                </div>
+                <!--/.navbar-header-->
+                <div id="main-nav" class="collapse navbar-collapse">
+                        <div class="menu-top-menu-container"><ul id="menu-top-menu" class="nav navbar-nav"><li id="menu-item-19459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19459"><a href="/">หน้าแรก</a></li>
+<li id="menu-item-19460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19460"><a href="/travel/province">ข้อมูลท่องเที่ยวจังหวัด</a></li>
+<li id="menu-item-19461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19461"><a href="/travel">รีวิวท่องเที่ยว</a></li>
+<li id="menu-item-19462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19462"><a href="/hotel">ที่พักทั่วไทย</a></li>
+<li id="menu-item-19463" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19463"><a href="/travel/eat">รีวิวคาเฟ่ ร้านอาหาร</a></li>
+<li id="menu-item-19464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19464"><a href="/travel/advertising">ติดต่อโฆษณา &#038; ซื้อภาพถ่าย</a></li>
+</ul></div>                </div>
+                
+                <!--/.navbar-collapse-->
+            </nav>
+            <!--/.navbar-->
+        </div>
+        <!--/.container-->
+    </header>
+    <!--/.header-->
+     
+<div id="wrapper">
+  <div id="logo"><a href="https://www.paiduaykan.com/"><img src="/images/s-logo-new.png" width="216" height="77" border="0" /></a></div>
+  <!--logo-->
+  <div id="menubar">
+      <span class="menu-logo"></span>
+  		 <div class="menu-top-menu-container"><ul id="menu-top-menu-1" class="nav navbar-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19459"><a href="/">หน้าแรก</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19460"><a href="/travel/province">ข้อมูลท่องเที่ยวจังหวัด</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19461"><a href="/travel">รีวิวท่องเที่ยว</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19462"><a href="/hotel">ที่พักทั่วไทย</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19463"><a href="/travel/eat">รีวิวคาเฟ่ ร้านอาหาร</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19464"><a href="/travel/advertising">ติดต่อโฆษณา &#038; ซื้อภาพถ่าย</a></li>
+</ul></div>    </div>
+  
+  
+  <div id="containnergray">
+
+  <!--------------------------------------For Eat------------------------------>
+          
+      
+      <div id="adbox" class="eat">
+          <center>			<div class="textwidget"><div class="text-center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mwphead -->
+ <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0096060725943523"
+     data-ad-slot="2988492916"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+		          </center>
+      </div><!--adbanner-->
+      
+     
+       <!------------------------------------For Travel---------------------------------------->
+               
+    <!-------------------------------------------------adbox----------------------------------------------------------->
+ 
+
+<div id="detailbox1"> 
+</div>
+
+
+<div id="detailbox2">
+ <li id="text-19" class="top-wtext-19 widget widget_text">			<div class="textwidget"> <div class="text-center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- wpmobileslide -->
+ <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0096060725943523"
+     data-ad-slot="6071270055"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+</div>
+		</li><li id="text-20" class="top-wtext-20 widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- mobileslidebottom -->
+<ins class="adsbygoogle"
+     style="display:block; "
+     data-ad-client="ca-pub-0096060725943523"
+     data-ad-slot="1203808294"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</li></div>
+<div class="clearfix"></div>
+<div class="search_">
+    <div class="col-xs-12">
+                <script async src="https://cse.google.com/cse.js?cx=a0f7e0971b07305a5"></script>
+        <div class="gcse-searchbox-only"></div>
+            
+    </div>
+</div>
+
+
+<style>
+.searchform-input-wrapper{
+        width: 75%;
+}    
+.search_ {
+    background: #fff none repeat scroll 0 0;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    overflow: hidden;
+    padding: 20px 0;
+}
+.search_ button[type="submit"] {
+    -moz-user-select: none;
+    background: #fcc163 none repeat scroll 0 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    float: left;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.42857;
+    margin-bottom: 0;
+    margin-left: 20px;
+    padding: 6px 12px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 10%;
+}    
+@media only screen and (max-width: 768px) {    
+    .search_ button[type="submit"] {
+        margin-left: 10px!important;
+        width: 15%!important;
+
+    }
+    .navbar-brand {
+        padding-left: 0!important;
+        margin-left: -20px;
+        margin-top: -15px;
+    }
+ 
+}
+</style>
+	<div id="boxeat">
+
+	    <style type="text/css">
+    	p.allicon{ position: absolute  ;  right: 17px;    top: 15px;}
+    </style>
+   		        <p align="right"class="allicon"><a href="https://www.paiduaykan.com/travel/eat"><img src="https://www.paiduaykan.com/travel/wp-content/themes/paiduaykan-by-pw/images/eatall.gif" /></a></p>        
+        			<h1 class="pw_single">Mother Roaster ตลาดน้อย</h1> 
+            
+ 
+    <div class="social-info-bar top margin-bottom-20 clearfix">
+          <div class="box-share">
+             
+         </div>
+         <div class="article-info pull-right">
+            <small>27 June 2021  | เข้าชม 2,188 ครั้ง  </small>
+         </div>
+    </div>
+   
+    
+			<div class="entry">
+				<ul data-list="seed-social" class="seed-social -top"><li class="facebook"><a href="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.paiduaykan.com%2Ftravel%2Fmother-roaster" data-href="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.paiduaykan.com%2Ftravel%2Fmother-roaster" class="seed-social-btn" target="seed-social"><svg class="ss-facebook" role="img" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="M23.9981 11.9991C23.9981 5.37216 18.626 0 11.9991 0C5.37216 0 0 5.37216 0 11.9991C0 17.9882 4.38789 22.9522 10.1242 23.8524V15.4676H7.07758V11.9991H10.1242V9.35553C10.1242 6.34826 11.9156 4.68714 14.6564 4.68714C15.9692 4.68714 17.3424 4.92149 17.3424 4.92149V7.87439H15.8294C14.3388 7.87439 13.8739 8.79933 13.8739 9.74824V11.9991H17.2018L16.6698 15.4676H13.8739V23.8524C19.6103 22.9522 23.9981 17.9882 23.9981 11.9991Z"/></svg><span class="text">Facebook</span><span class="count"></span></a></li><li class="twitter"><a href="https://twitter.com/share?url=https%3A%2F%2Fwww.paiduaykan.com%2Ftravel%2Fmother-roaster&text=Mother+Roaster+%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2" data-href="https://twitter.com/share?url=https%3A%2F%2Fwww.paiduaykan.com%2Ftravel%2Fmother-roaster&text=Mother+Roaster+%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2" class="seed-social-btn" target="seed-social"><svg class="ss-twitter" role="img" width="24" height="24" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.954 4.569c-.885.389-1.83.654-2.825.775 1.014-.611 1.794-1.574 2.163-2.723-.951.555-2.005.959-3.127 1.184-.896-.959-2.173-1.559-3.591-1.559-2.717 0-4.92 2.203-4.92 4.917 0 .39.045.765.127 1.124C7.691 8.094 4.066 6.13 1.64 3.161c-.427.722-.666 1.561-.666 2.475 0 1.71.87 3.213 2.188 4.096-.807-.026-1.566-.248-2.228-.616v.061c0 2.385 1.693 4.374 3.946 4.827-.413.111-.849.171-1.296.171-.314 0-.615-.03-.916-.086.631 1.953 2.445 3.377 4.604 3.417-1.68 1.319-3.809 2.105-6.102 2.105-.39 0-.779-.023-1.17-.067 2.189 1.394 4.768 2.209 7.557 2.209 9.054 0 13.999-7.496 13.999-13.986 0-.209 0-.42-.015-.63.961-.689 1.8-1.56 2.46-2.548l-.047-.02z"/></svg><span class="text">Twitter</span><span class="count"></span></a></li><li class="line"><a href="https://lineit.line.me/share/ui?url=https%3A%2F%2Fwww.paiduaykan.com%2Ftravel%2Fmother-roaster" data-href="https://lineit.line.me/share/ui?url=https%3A%2F%2Fwww.paiduaykan.com%2Ftravel%2Fmother-roaster" class="seed-social-btn" target="seed-social -line"><svg class="ss-line" role="img" width="24" height="24" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63h2.386c.346 0 .627.285.627.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63.346 0 .628.285.628.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.282.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314"/></svg><span class="text">Line</span><span class="count"></span></a></li></ul><p><strong>Mother Roaster</strong> คาเฟ่ชื่อดังในบ้านเก่าดีไซน์เป็นเอกลักษณ์ในย่านตลาดน้อย ใครไม่ได้มาถ่ายรูปกับภาพเพนท์กำแพงหน้าร้านถือว่ามาไม่ถึงตลาดน้อย เป็นร้านกาแฟที่มีกิมมิคให้นึกถึง ตั้งแต่เริ่มก้าวเข้ามาในร้านจะเจอเศษอะไหล่เหล็กเก่ากองสูงที่วางอยู่ตลอดทางเข้า จนทำให้คิดว่านี่ใช่ร้านกาแฟจริงเหรอ แต่พอเดินผ่านไปยังชั้นสองจะได้พบกับบรรยกาศของคาเฟ่ที่ตกแต่งได้น่านั่งมาก ร้านนี้เป็น​ที่​รู้​จัก​กัน​ดี​เพราะ​ชื่อ​เสีย​ง​ของ​บาริสต้า​วัยเก๋า คุณยายพิณ คุณ​ยายทั้งคั่ว​ บด​ ดริฟเองกับมือ​จน​ทุกคนติดใจ&nbsp; จาก​นั้น​จึง​ได้​ย้าย​ร้าน​มา​ตั้ง​ใน​ชุม​ชน​ตลาด​น้อย​ และ​ได้​ขยาย​สาขา​ไป​ที่​ประตู​ผี​ด้วย หาก​ใคร​ต้อง​การ​เจอ​คุณ​ยาย​พิณ​แนะ​นำ​ให้​ไป​สาขา​ประตูผี​ ส่วนสาขานี้จะเป็นทีมลูกๆเป็นคนดูแล ชงกาแฟมาได้รสชาติ​อร่อยไม่แพ้กัน&nbsp;</p>
+<p>&nbsp;</p>
+<p><img class="alignnone wp-image-59085 size-full" title="Mother Roaster ตลาดน้อย" src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2224.jpg" alt="" width="800" height="533"></p>
+<p>&nbsp;</p>
+<p>ตัวร้านตั้งมีสองชั้น&nbsp; ชั้นล่างเป็นโครงสร้างปูน ส่วนชั้นสองเป็นโครงสร้างไม้ ผนังกำแพงหน้าร้านมีลวดลายเพนท์การตูนน่ารัก กลายเป็นมุมซิเนเจอร์ของตลาดน้อย ที่หลายคนต้องแวะเวียนมาถ่ายรูป ก่อนที่ร้านจะมาเปิดตรงนี้ ภาพเพ้นท์จะเป็นภาพอื่นค่ะ แต่ปัจจุบันมีการวาดภาพใหม่แทนภาพเดิมตามที่เห็นในภาพ&nbsp;</p>
+<p>&nbsp;</p>
+<p><img class="alignnone wp-image-59084 size-full" title="Mother Roaster ตลาดน้อย" src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2223.jpg" alt="" width="800" height="533"></p>
+<p>&nbsp;</p>
+<p>แต่ก่อนจะเข้าไปยังส่วนของร้านกาแฟที่ตั้งอยู่ชั้น 2 ต้องเดินผ่านกองอะไหล่เหล็ก และของเก่าแก่ที่วางไว้&nbsp;อาจทำให้ตกใจเล็กน้อยเมื่อได้เห็น แต่ถ้ามองอีกมุมถือว่าเป็นกิมมิค และเอกลักษณ์ของทางร้านไปเสียแล้ว&nbsp; &nbsp;</p>
+<p>&nbsp;</p>
+<p><img class="alignnone wp-image-59086 size-full" title="Mother Roaster ตลาดน้อย" src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2227.jpg" alt="" width="800" height="533"></p>
+<p>&nbsp;</p>
+<p>ผ่านกองอะไหล่เหล็กมาถึงชั้นสอง&nbsp; เป็นส่วนของคาเฟ่จะได้พบอีกบรรยากาศที่แตกต่างจากภาพชั้นล่างที่ได้เห็น สวยงามและน่านั่งมาก ในส่วนของพื้นที่เอาท์ดอร์ริมระเบียง&nbsp; ตกแต่งด้วยเฟอร์นิเจอร์ไม้แบบวินเทจ มีมุมสีเขียวเล็กๆจากต้นไม้แขวนที่ประดับไว้&nbsp;</p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-full wp-image-59087" src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2229.jpg" alt=""></p>
+<p>&nbsp;</p>
+<p>ภายในร้านเป็นแบบห้องแอร์ โดยยังโครงสร้างไม้จากอาคารเดิม ดีไซน์สไตล์วินเทจสะท้อนความคลาสสิก และมีมุม slow bar ที่ต้องยอมรับทั้งเรื่องคุณภาพ ทั้งรสชาติและวัตถุดิบ เพราะทางร้านคัดสรรเมล็ดกาแฟพันธุ์ดีมาให้เลือกกว่า 30 แบบ รังสรรค์เป็นเมนูกาแฟรสชาติกลมกล่อม</p>
+<p>&nbsp;</p>
+<p><img class="alignnone wp-image-59088 size-full" title="Mother Roaster ตลาดน้อย" src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2231.jpg" alt="" width="800" height="533"></p>
+<p><img class="alignnone wp-image-59093 size-full" title="Mother Roaster ตลาดน้อย" src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2236.jpg" alt="" width="800" height="533"></p>
+<p><img class="alignnone size-full wp-image-59094" src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2237.jpg" alt=""></p>
+<p>&nbsp;</p>
+<p>นอกจากนี้ยังมีมุมศิลปะที่ผสมความโมเดิร์นนิดๆเข้าไปด้วย กลายเป็นมุมถ่ายรูปเก๋ๆ&nbsp;</p>
+<p>&nbsp;</p>
+<p><img class="alignnone wp-image-59089 size-full" title="Mother Roaster ตลาดน้อย" src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2232.jpg" alt="" width="800" height="533"></p>
+<p><img class="alignnone wp-image-59090 size-full" title="Mother Roaster ตลาดน้อย" src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2233.jpg" alt="" width="800" height="1200"></p>
+<p><img class="alignnone size-full wp-image-59091" src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2234.jpg" alt=""></p>
+<p>&nbsp;</p>
+<p>ในส่วนของเครื่องดื่ม สั่งกาแฟมะนาว รสชาติดีมาก ได้กลิ่รหอมและความเปรี้ยวของมะนาวแบบเต็มๆ ช่วยเติมความสดชื่นได้มากเลยทีเดียว&nbsp;</p>
+<p>&nbsp;</p>
+<p><img class="alignnone wp-image-59092 size-full" title="Mother Roaster ตลาดน้อย" src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2235.jpg" alt="" width="800" height="533">&nbsp;</p>
+<p><strong>Mother Roaster&nbsp;</strong></p>
+<p><strong>พิกัด</strong>&nbsp;1172 ตรอกศาลเจ้าโรงเกือก ตลาดน้อย สัมพันธวงศ์ กทม 10100</p>
+<p><strong>เปิดให้บริการ</strong>&nbsp;10.00 น. – 18.00 น.</p>
+<p><strong>Facebook</strong><a href="https://www.facebook.com/motherroaster/" target="_blank" rel="noopener noreferrer">&nbsp;Mother Roaster&nbsp;</a></p>
+<p style="text-align: center;">&nbsp;</p>
+<ul data-list="seed-social" class="seed-social -bottom"><li class="facebook"><a href="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.paiduaykan.com%2Ftravel%2Fmother-roaster" data-href="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.paiduaykan.com%2Ftravel%2Fmother-roaster" class="seed-social-btn" target="seed-social"><svg class="ss-facebook" role="img" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="M23.9981 11.9991C23.9981 5.37216 18.626 0 11.9991 0C5.37216 0 0 5.37216 0 11.9991C0 17.9882 4.38789 22.9522 10.1242 23.8524V15.4676H7.07758V11.9991H10.1242V9.35553C10.1242 6.34826 11.9156 4.68714 14.6564 4.68714C15.9692 4.68714 17.3424 4.92149 17.3424 4.92149V7.87439H15.8294C14.3388 7.87439 13.8739 8.79933 13.8739 9.74824V11.9991H17.2018L16.6698 15.4676H13.8739V23.8524C19.6103 22.9522 23.9981 17.9882 23.9981 11.9991Z"/></svg><span class="text">Facebook</span><span class="count"></span></a></li><li class="twitter"><a href="https://twitter.com/share?url=https%3A%2F%2Fwww.paiduaykan.com%2Ftravel%2Fmother-roaster&text=Mother+Roaster+%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2" data-href="https://twitter.com/share?url=https%3A%2F%2Fwww.paiduaykan.com%2Ftravel%2Fmother-roaster&text=Mother+Roaster+%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2" class="seed-social-btn" target="seed-social"><svg class="ss-twitter" role="img" width="24" height="24" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.954 4.569c-.885.389-1.83.654-2.825.775 1.014-.611 1.794-1.574 2.163-2.723-.951.555-2.005.959-3.127 1.184-.896-.959-2.173-1.559-3.591-1.559-2.717 0-4.92 2.203-4.92 4.917 0 .39.045.765.127 1.124C7.691 8.094 4.066 6.13 1.64 3.161c-.427.722-.666 1.561-.666 2.475 0 1.71.87 3.213 2.188 4.096-.807-.026-1.566-.248-2.228-.616v.061c0 2.385 1.693 4.374 3.946 4.827-.413.111-.849.171-1.296.171-.314 0-.615-.03-.916-.086.631 1.953 2.445 3.377 4.604 3.417-1.68 1.319-3.809 2.105-6.102 2.105-.39 0-.779-.023-1.17-.067 2.189 1.394 4.768 2.209 7.557 2.209 9.054 0 13.999-7.496 13.999-13.986 0-.209 0-.42-.015-.63.961-.689 1.8-1.56 2.46-2.548l-.047-.02z"/></svg><span class="text">Twitter</span><span class="count"></span></a></li><li class="line"><a href="https://lineit.line.me/share/ui?url=https%3A%2F%2Fwww.paiduaykan.com%2Ftravel%2Fmother-roaster" data-href="https://lineit.line.me/share/ui?url=https%3A%2F%2Fwww.paiduaykan.com%2Ftravel%2Fmother-roaster" class="seed-social-btn" target="seed-social -line"><svg class="ss-line" role="img" width="24" height="24" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63h2.386c.346 0 .627.285.627.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63.346 0 .628.285.628.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.282.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314"/></svg><span class="text">Line</span><span class="count"></span></a></li></ul>                
+                <div class="row"> 
+                 
+                
+                <div class="follow-us-lvd">
+                  <div class="col-md-offset-4x col-md-12 col-xs-12 text-center">
+                  <div class="text-right col-md-10 col-xs-7">ติดตามไปด้วยกัน  </div>
+                    <div class="col-md-2 col-xs-5">
+                        <a href="https://www.facebook.com/paiduaykantravel/" target="_blank"><img src="/images/fb.png"></a>
+                        <a href="https://www.instagram.com/paiduaykan/" target="_blank"><img src="/images/ig.png"></a>
+                        <a href="https://www.youtube.com/channel/UCi-VttmnsKfnoEH1fgcfxTg" target="_blank"><img src="/images/youtube.png"></a>
+                        </div>
+                    </div>
+                
+
+                </div>
+               
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+                    <!-- Mwpin -->
+
+                    <ins class="adsbygoogle"
+
+                         style="display:block"
+
+                         data-ad-client="ca-pub-0096060725943523"
+
+                         data-ad-slot="3488020514"
+
+                         data-ad-format="auto"></ins>
+
+                    <script>
+
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+
+                    </script>
+                </div>
+
+								<p class="tag">Tags : <a href="https://www.paiduaykan.com/travel/tag/mother-roaster" rel="tag">Mother Roaster</a>, <a href="https://www.paiduaykan.com/travel/tag/%e0%b8%84%e0%b8%b2%e0%b9%80%e0%b8%9f%e0%b9%88%e0%b8%95%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%a2" rel="tag">คาเฟ่ตลาดน้อย</a></p>                
+  
+            <div class="clearspace"><span></span></div>             
+            
+        
+
+            <div class="clearspace"><span></span></div>
+            
+              <li id="text-21" class="widget widget_text">			<div class="textwidget"> <div class="text-center">
+<a href=" https://www.agoda.com/th-th/deals?cid=1416125
+"> 
+<img src="https://www.paiduaykan.com/travel/wp-content/uploads/2019/05/adoda.jpg"/></a>
+</div>
+
+
+</div>
+		</li>
+            
+            <div class="clearspace"><span></span></div>
+
+            <h3 class='rlt'>บทความที่เกี่ยวข้อง</h3>
+
+            <ul id="related_posts_thumbnails"><li ><a href="https://www.paiduaykan.com/travel/patina" ><img alt="<b>Patina Bangkok คาเฟ่ลับที่ซ่อนตัวในบ้านเก่าย่านตลาดน้อย</b>" src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/1-IMG_2144-300x200.jpg" width="300" height="1024" /></a><a href="https://www.paiduaykan.com/travel/patina"><span><b>Patina Bangkok คาเฟ่ลับที่ซ่อนตัวในบ้านเก่าย่านตลาดน้อย</b><br/><section class="mini-exerp">Patina Bangkok คาเฟ่ลับที่ซ่อนตัวในบ้านเก่าแก่อายุกว่า 100 ปี ย่านตลาดน้อย  สะท้อนกลิ่นอายวินเทจแบบไทยและจีนผสมกันได้ลงตัว </section></span></a></li><li ><a href="https://www.paiduaykan.com/travel/%e0%b8%95%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%a2" ><img alt="<b>รวมจุดแชะ แวะ กิน เที่ยว ตลาดน้อย</b>" src="https://www.paiduaykan.com/travel/wp-content/uploads/2017/01/1-ปกตลาดน้อย-300x200.jpg" width="300" height="1024" /></a><a href="https://www.paiduaykan.com/travel/%e0%b8%95%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%a2"><span><b>รวมจุดแชะ แวะ กิน เที่ยว ตลาดน้อย</b><br/><section class="mini-exerp">หากพูดถึงย่านชุมชนเก่าในกรุงเทพ ที่เหมาะไปเดินถ่ายภาพชิคชิลมีหลากหลายแห่ง หนึ่งในนั่น คือ ตลาดน้อย ย่านการค้าริมฝั่งแม่น้ำเจ้าพระยาที่เกิดจากการขยายตัวทางการค้าของสำเพ็งในช่วงตอนต้นของกรุงรัตนโกสินทร์&amp;nbsp; ที่มีการผสมผสานวัฒนธรรมไทย-จีนได้อย่างลงตัว&amp;nbsp;ผ่านวิถีชีวิต อาคารบ้านเรือนเก่าแก่ เติมสีสันให้ชุมชนด้วยคาเฟ่เก๋ รวมถึงภาพเพ้นท์น่ารักตามกำแพงบ้านและตรอกซอกซอย ทำให้ ตลาดน้อย เป็นแหล่...</section></span></a></li><li ><a href="https://www.paiduaykan.com/travel/hong-sieng-kong" ><img alt="<b>Hong Sieng Kong คาเฟ่สไตล์จีนโบราณ ย่านตลาดน้อย</b>" src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/1-SON02159-300x200.jpg" width="300" height="1024" /></a><a href="https://www.paiduaykan.com/travel/hong-sieng-kong"><span><b>Hong Sieng Kong คาเฟ่สไตล์จีนโบราณ ย่านตลาดน้อย</b><br/><section class="mini-exerp">Hong Sieng Kong คาเฟ่ที่เก่าเก๋เปิดใหม่ล่าสุดในตลาดน้อยติดติดริมน้ำเจ้าน้ำพระยา ตกแต่งแบบจีนโบราณ ที่ดัดแปลงมาจากบ้านหลังเก่า</section></span></a></li><li ><a href="https://www.paiduaykan.com/travel/%e0%b8%84%e0%b8%b2%e0%b9%80%e0%b8%9f%e0%b9%88%e0%b9%80%e0%b8%88%e0%b8%a3%e0%b8%b4%e0%b8%8d%e0%b8%81%e0%b8%a3%e0%b8%b8%e0%b8%87" ><img alt="<b>15 คาเฟ่เจริญกรุง ตลาดน้อย ดื่มด่ำเสน่ห์ย่านเก่า</b>" src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/03/1-ปกคาเฟ่เจริญกรุง-300x200.jpg" width="300" height="1024" /></a><a href="https://www.paiduaykan.com/travel/%e0%b8%84%e0%b8%b2%e0%b9%80%e0%b8%9f%e0%b9%88%e0%b9%80%e0%b8%88%e0%b8%a3%e0%b8%b4%e0%b8%8d%e0%b8%81%e0%b8%a3%e0%b8%b8%e0%b8%87"><span><b>15 คาเฟ่เจริญกรุง ตลาดน้อย ดื่มด่ำเสน่ห์ย่านเก่า</b><br/><section class="mini-exerp">“เจริญกรุง” อีกหนึ่งย่านเก่าแก่ชื่อดังที่ได้ชื่อว่าเป็นแหล่งรวมงานอาร์ตและคาเฟ่สำหรับเหล่าฮิปสเตอร์ ใครที่อยากได้คอลเล็กชันภาพถ่ายสวย ๆ ต้องแวะมา</section></span></a></li></ul><div style="clear: both"></div> 
+
+
+
+</div>
+
+
+        
+		
+
+	
+
+	</div>
+    
+  
+		<div id="boxeatright">
+     
+    <div class="row ad-show-on-mobile"> 
+     <li id="text-19" class="top-wtext-19 widget widget_text">			<div class="textwidget"> <div class="text-center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- wpmobileslide -->
+ <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0096060725943523"
+     data-ad-slot="6071270055"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+</div>
+		</li><li id="text-20" class="top-wtext-20 widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- mobileslidebottom -->
+<ins class="adsbygoogle"
+     style="display:block; "
+     data-ad-client="ca-pub-0096060725943523"
+     data-ad-slot="1203808294"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</li>    </div>
+          
+      <div id="boxeatright2">
+     		<ul>
+                <li class="widget">
+                    <ul><li class="categories"><h2 class="widgettitle">Categories</h2><ul>	<li class="cat-item cat-item-98"><a href="https://www.paiduaykan.com/travel/category/eat-promotion/%e0%b8%a3%e0%b8%a7%e0%b8%a1%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%ab%e0%b8%b2%e0%b8%a3%e0%b8%ab%e0%b8%a5%e0%b8%b2%e0%b8%81%e0%b8%aa%e0%b9%84%e0%b8%95%e0%b8%a5%e0%b9%8c">รวมร้านอาหารหลากสไตล์</a>
+</li>
+	<li class="cat-item cat-item-95"><a href="https://www.paiduaykan.com/travel/category/eat-promotion/%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b9%81%e0%b8%9f-%e0%b9%80%e0%b8%9a%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b8%b5%e0%b9%88-%e0%b9%84%e0%b8%ad%e0%b8%a8%e0%b8%84%e0%b8%a3%e0%b8%b5">ร้านกาแฟ เบเกอรี่ ไอศครีม</a>
+</li>
+	<li class="cat-item cat-item-94"><a href="https://www.paiduaykan.com/travel/category/eat-promotion/%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%81%e0%b9%8b%e0%b8%a7%e0%b8%a2%e0%b9%80%e0%b8%95%e0%b8%b5%e0%b9%8b%e0%b8%a2%e0%b8%a7">ร้านก๋วยเตี๋ยว</a>
+</li>
+	<li class="cat-item cat-item-97"><a href="https://www.paiduaykan.com/travel/category/eat-promotion/%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b9%89%e0%b8%a1%e0%b8%95%e0%b8%b3-%e0%b8%ad%e0%b8%b2%e0%b8%ab%e0%b8%b2%e0%b8%a3%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b8%ad">ร้านส้มตำ อาหารพื้นเมือง</a>
+</li>
+	<li class="cat-item cat-item-238"><a href="https://www.paiduaykan.com/travel/category/eat-promotion/%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%ab%e0%b8%b2%e0%b8%a3%e0%b8%8d%e0%b8%b5%e0%b9%88%e0%b8%9b%e0%b8%b8%e0%b9%88%e0%b8%99">ร้านอาหารญี่ปุ่น</a>
+</li>
+	<li class="cat-item cat-item-96"><a href="https://www.paiduaykan.com/travel/category/eat-promotion/%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%97%e0%b8%b0-%e0%b8%8a%e0%b8%b2%e0%b8%9a%e0%b8%b9">หมูกระทะ ชาบู</a>
+</li>
+</ul></li></ul>                   </li>
+			</ul>
+     </div><!--boxeatright2-->
+  <div class="row ad-mobile-1"> 
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+                    <!-- Mwpin -->
+
+                    <ins class="adsbygoogle"
+
+                         style="display:block"
+
+                         data-ad-client="ca-pub-0096060725943523"
+
+                         data-ad-slot="3488020514"
+
+                         data-ad-format="auto"></ins>
+
+                    <script>
+
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+
+                    </script>
+                </div>
+    
+    <div class="bannerad2">
+    <!-- fb -->
+    <iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpaiduaykantravel&amp;width=210&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=258" scrolling="No" frameborder="0" style="background: white;border:none; overflow:hidden; width:210px; height:258px;" allowtransparency="true"></iframe>
+    <!--fb-->
+    </div>
+    
+
+<div class="recent_opt_article"><h2>บทความล่าสุด</h2><ul><li><a href="https://www.paiduaykan.com/travel/%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b8%9b%e0%b8%a3%e0%b8%b2%e0%b8%aa%e0%b8%b2%e0%b8%97%e0%b8%ab%e0%b8%b4%e0%b8%99"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/07/SON02743-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b8%9b%e0%b8%a3%e0%b8%b2%e0%b8%aa%e0%b8%b2%e0%b8%97%e0%b8%ab%e0%b8%b4%e0%b8%99">10 ปราสาทหินน่าเที่ยว ทรงคุณค่าสถาปัตยกรรม</a></li><li><a href="https://www.paiduaykan.com/travel/%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%99"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/07/1-วัดน่าน-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%99">15 วัดสวย น่าเที่ยว เมืองน่าน</a></li><li><a href="https://www.paiduaykan.com/travel/%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%a0%e0%b8%b9%e0%b9%80%e0%b8%81%e0%b9%87%e0%b8%95-%e0%b8%9b%e0%b8%b1%e0%b8%a7"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/07/DEW_4151-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%a0%e0%b8%b9%e0%b9%80%e0%b8%81%e0%b9%87%e0%b8%95-%e0%b8%9b%e0%b8%b1%e0%b8%a7">วัดภูเก็ต ปัว</a></li><li><a href="https://www.paiduaykan.com/travel/%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%aa%e0%b8%99%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%87%e0%b9%84%e0%b8%97%e0%b8%a2"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/07/ปกป่าสน-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%aa%e0%b8%99%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%87%e0%b9%84%e0%b8%97%e0%b8%a2">8 ป่าสนเมืองไทย วิวสวยชวนฝัน</a></li><li><a href="https://www.paiduaykan.com/travel/%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b8%a3%e0%b8%b2%e0%b8%8a%e0%b8%9a%e0%b8%b8%e0%b8%a3%e0%b8%b5-2"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/ราชบุรี-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b8%a3%e0%b8%b2%e0%b8%8a%e0%b8%9a%e0%b8%b8%e0%b8%a3%e0%b8%b5-2">12 จุดฮิต ถ่ายรูปสุดปัง ราชบุรี</a></li></ul><h2>บทความแนะนำ</h2><ul><li><a href="https://www.paiduaykan.com/travel/%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%a8%e0%b8%a3%e0%b8%b5%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%95%e0%b9%89%e0%b8%99-%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%99"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/07/DEW_7827-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%a8%e0%b8%a3%e0%b8%b5%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%95%e0%b9%89%e0%b8%99-%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%99">วัดศรีพันต้น น่าน</a></li><li><a href="https://www.paiduaykan.com/travel/%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%a3%e0%b8%a1%e0%b8%98%e0%b8%b2%e0%b8%95%e0%b8%b8%e0%b9%81%e0%b8%8a%e0%b9%88%e0%b9%81%e0%b8%ab%e0%b9%89%e0%b8%87"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/07/DEW_8050-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%a3%e0%b8%a1%e0%b8%98%e0%b8%b2%e0%b8%95%e0%b8%b8%e0%b9%81%e0%b8%8a%e0%b9%88%e0%b9%81%e0%b8%ab%e0%b9%89%e0%b8%87">พระบรมธาตุแช่แห้ง น่าน</a></li><li><a href="https://www.paiduaykan.com/travel/%e0%b8%9b%e0%b8%b2%e0%b8%87%e0%b8%ad%e0%b8%b8%e0%b9%8b%e0%b8%87"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/07/3-DSC_0343-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/%e0%b8%9b%e0%b8%b2%e0%b8%87%e0%b8%ad%e0%b8%b8%e0%b9%8b%e0%b8%87">ปางอุ๋ง แม่ฮ่องสอน</a></li><li><a href="https://www.paiduaykan.com/travel/%e0%b8%9c%e0%b8%b2%e0%b8%8a%e0%b9%88%e0%b8%ad"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/07/DEW_7282_1-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/%e0%b8%9c%e0%b8%b2%e0%b8%8a%e0%b9%88%e0%b8%ad">ผาช่อ  เชียงใหม่</a></li><li><a href="https://www.paiduaykan.com/travel/%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%aa%e0%b8%99%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/07/1-DSC_2165-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%aa%e0%b8%99%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c">ป่าสนวัดจันทร์ เชียงใหม่</a></li></ul><h2>รีวิวคาเฟ่และร้านอาหาร</h2><ul><li><a href="https://www.paiduaykan.com/travel/%e0%b8%84%e0%b8%b2%e0%b9%80%e0%b8%9f%e0%b9%88%e0%b9%81%e0%b8%a1%e0%b9%88%e0%b8%ae%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%ad%e0%b8%99"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/07/1คาเฟ่แม่ฮ่องสอน-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/%e0%b8%84%e0%b8%b2%e0%b9%80%e0%b8%9f%e0%b9%88%e0%b9%81%e0%b8%a1%e0%b9%88%e0%b8%ae%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%ad%e0%b8%99">15 คาเฟ่แม่ฮ่องสอน ดื่มด่ำรสกาแฟ วิวธรรมชาติ ขุนเขา</a></li><li><a href="https://www.paiduaykan.com/travel/%e0%b8%84%e0%b8%b2%e0%b9%80%e0%b8%9f%e0%b9%88%e0%b8%8a%e0%b8%b8%e0%b8%a1%e0%b8%9e%e0%b8%a3"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/07/1-คาเฟ่ชุมพร-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/%e0%b8%84%e0%b8%b2%e0%b9%80%e0%b8%9f%e0%b9%88%e0%b8%8a%e0%b8%b8%e0%b8%a1%e0%b8%9e%e0%b8%a3">20 คาเฟ่ชุมพร ชมเขา มองทะเล</a></li><li><a href="https://www.paiduaykan.com/travel/mother-roaster"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/IMG_2223-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/mother-roaster">Mother Roaster ตลาดน้อย</a></li><li><a href="https://www.paiduaykan.com/travel/patina"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/1-IMG_2144-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/patina">Patina Bangkok คาเฟ่ลับที่ซ่อนตัวในบ้านเก่าย่านตลาดน้อย</a></li><li><a href="https://www.paiduaykan.com/travel/%e0%b8%84%e0%b8%b2%e0%b9%80%e0%b8%9f%e0%b9%88%e0%b8%9a%e0%b8%b2%e0%b8%87%e0%b8%99%e0%b8%b2"><img src="https://www.paiduaykan.com/travel/wp-content/uploads/2021/06/1-คาเฟ่บางนา-149x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a><a href="https://www.paiduaykan.com/travel/%e0%b8%84%e0%b8%b2%e0%b9%80%e0%b8%9f%e0%b9%88%e0%b8%9a%e0%b8%b2%e0%b8%87%e0%b8%99%e0%b8%b2">15 คาเฟ่บางนา สายคาเฟ่ตัวจริงต้องห้ามพลาด</a></li></ul></div>  
+ <!--210 x200-->
+
+    <div class="bannerad2">
+              <div style="margin-top:10px;">
+                   <ul>
+                    <li id="text-4" class="widget widget_text">			<div class="textwidget"></div>
+		</li><li id="text-18" class="widget widget_text">			<div class="textwidget"></div>
+		</li><li id="text-17" class="widget widget_text">			<div class="textwidget">
+</div>
+		</li>                   </ul>
+              </div>
+    </div>
+    
+   </div><!--boxright-->
+ 
+
+
+<div class="clearspace"></div><!--boxleft-->
+
+  </div><!--containnergray-->
+  
+  <div id="footer">
+    www.paiduaykan.com แหล่งชุมนุมของคนชอบเที่ยว 
+    รูปภาพและบทความที่จัดทำขึ้นโดยเว็บไซต์สงวนลิขสิทธิ์ตามกฎหมาย <br>
+    ห้ามผู้ใดทำซ้ำหรือเผยแพร่เชิงพาณิชย์ในทุกสื่อ
+    ไม่ว่าจะเป็นบางส่วนหรือทั้งหมดโดยไม่ได้รับอนุญาต
+
+
+    <div id="truehits_div"></div>
+<script type="text/javascript">
+  (function() {
+    var ga1 = document.createElement('script'); ga1.type = 'text/javascript';
+    ga1.async = true;
+    ga1.src = "//lvs.truehits.in.th/dataa/s0029153.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga1, s);
+  })();
+</script>
+
+
+<!-- <script language="JavaScript1.1" src="https://hits.truehits.in.th/data/s0029153.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://hits.truehits.in.th/clickmap/clickmap.js"></script>
+<script type="text/javascript">
+clickMapSite = 's0029153';
+</script> -->
+        
+        
+<script type="text/javascript">
+   function setCookie(name,value,days) {
+		if (days) {
+			var date = new Date();
+			date.setTime(date.getTime()+(days*24*60*60*1000));
+			var expires = "; expires="+date.toGMTString();
+		}
+		else var expires = "";
+		document.cookie = name+"="+value+expires+"; path="+document.URL ;
+	}
+	
+	function getCookie(name) {
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+		}
+		return null;
+	}
+	
+	function deleteCookie(name) {
+		setCookie(name,"",-1);
+	}
+	
+   
+   </script>
+ 
+  </div>
+
+</div> 
+    <!-- โค้ด web ranking สำหรับเว็บไซต์ www.paiduaykan.com --><!-- จบโค้ดทรูฮิต webranking -->
+  </div><!--wrapper-->
+ 
+ <script type='text/javascript' src='https://www.paiduaykan.com/travel/wp-content/plugins/bwp-minify/min/?f=travel/wp-includes/js/comment-reply.min.js,travel/wp-content/plugins/seed-social/script.js,travel/wp-includes/js/wp-embed.min.js'></script>
+ 
+<!--<script type="text/javascript" src="https://fbcomments-email-notifications.googlecode.com/files/CommentsboxEmailNotifications.js"></script> -->
+  
+<!--[if lte IE 8]><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><![endif]-->
+<script src="https://www.paiduaykan.com/travel/wp-content/themes/paiduaykan-by-pw/js/modernizr-latest.js"></script>
+<script src="https://www.paiduaykan.com/travel/wp-content/themes/paiduaykan-by-pw/js/jquery-1.8.2.min.js" type="text/javascript"></script>
+<script src="https://www.paiduaykan.com/travel/wp-content/themes/paiduaykan-by-pw/js/bootstrap.min.js" type="text/javascript"></script>
+<script>
+    $("#switch").click(function(){
+         $("#responsive").attr({href : ""});
+         $("#bootstrap").attr({href : ""});
+            return false;
+
+    });
+</script>
+   
+<!-- FlexSlider -->
+<script src="https://www.paiduaykan.com/travel/wp-content/themes/paiduaykan-by-pw/js/jquery.flexslider.js"></script>
+<script type="text/javascript">
+     // get slide 
+     $.ajax({
+          url: '/slide.php',
+          dataType: 'text',
+          success: function(data) {
+              $('#detailbox1').html(data);
+          }
+    }); 
+                 
+    $('.searchform-input-wrapper > input').attr('placeholder','ค้นหาข้อมูลท่องเที่ยว');
+
+    
+       $('.flexslider').flexslider({
+            animation: "slide",
+            animationLoop: false,
+            itemWidth: 820,
+            itemMargin: 0,
+            pausePlay: false,
+			allowOneSlide: true,
+           
+            start: function(slider){
+          //$('.text-center.loading').hide();
+        }
+      });
+    
+    
+ $(window).load(function(){
+     
+      $('.flexsmall').flexslider({
+            animation: "slide",
+            animationLoop: false,
+            itemWidth: 210,
+            itemMargin: 5,
+            pausePlay: false,
+            start: function(slider){
+                
+                $('.flexsmall .slides').fadeIn(300);
+                $('.text-center.loading').hide();
+        }
+      });
+    });    
+ 
+  </script> 
+  <script>
+       $(document).ready(function(){
+           
+        var isLogo = $('#logo img').attr('src');   
+
+       // grab the initial top offset of the navigation 
+        var sticky_navigation_offset_top = $('#menubar').offset().top;
+
+        // our function that decides weather the navigation bar should have "fixed" css position or not.
+        var sticky_navigation = function(){
+        var scroll_top = $(window).scrollTop(); // our current vertical position from the top
+
+            // if we've scrolled more than the navigation, change its position to fixed to stick to top, otherwise change it back to relative
+            if (scroll_top > sticky_navigation_offset_top) { 
+                $('#menubar').css({ 'position': 'fixed', 'top':0,'left':0,'padding':0,'margin':'auto 0', 'width':'100%','background':'rgba(255,255,255,0.9)','z-index':20,'box-shadow':'0px 1px 5px rgba(0,0,0,0.1)'});
+                $('#menubar ul>li').css({'padding':'5px 5px 10px'});
+                $('#menubar ul').css({'width':'auto'});                                 
+                $('.menu-logo').html('<img src="'+isLogo+'">').css({'display':'block','position':'absolute','left':'10px'});
+                
+              //  $('.menu-logo').css({'display':'block','width':'140px','position':'absolute','left':'10px'});
+                
+            } else {
+                
+                $('#menubar').css({ 'position': 'relative','padding':'0','margin':'0 auto', 'width':'1073px','background':'#fff','box-shadow':'none' });
+                $('#menubar ul>li').css({'padding':'3px 5px 0'}); 
+                $('#menubar ul>li:first-child').css({'margin-left':'45px'}); 
+                $('#menubar ul').css({'width':'100%'});                 
+                $('.menu-logo').css({'display':'none'});
+                
+            }   
+        };
+
+        // run our function on load
+        sticky_navigation();
+
+        // and run it again every time you scroll
+        $(window).scroll(function() {
+             sticky_navigation();
+        });
+       });
+    </script>  
+   <script>
+    $('#gsc-i-id1').attr('placecholder','ค้นหาที่เที่ยว');
+</script>
+</body>
+</html>
